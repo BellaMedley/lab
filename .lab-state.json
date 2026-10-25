@@ -9,5 +9,13 @@
   "mainRulesetName": "lab-main-protection",
   "packageDeployerScaffolded": true,
   "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "columnsScaffolded": true,
+  "devEnvUrl": "https://wm-dev-4574.crm.dynamics.com",
+  "devEnvId": "c1eac3fd-4dde-e4d0-95d9-52343942f414",
+  "devOrgId": "f15ecc5e-a4d0-f111-be88-7ced8d714606",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-4574.crm.dynamics.com",
+  "testEnvId": "dacb508c-d8c9-ed3f-b80f-45b3dabf7b17",
+  "testOrgId": "f55ecc5e-a4d0-f111-be88-7ced8d714606",
+  "testProfile": "test"
 }
