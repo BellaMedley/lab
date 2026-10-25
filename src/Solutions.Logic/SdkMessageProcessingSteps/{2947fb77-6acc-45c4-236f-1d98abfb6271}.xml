@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="Plugins.Warehouse.ValidateWarehouseTransactionPlugin: Create of lab_warehousetransaction" SdkMessageProcessingStepId="{2947fb77-6acc-45c4-236f-1d98abfb6271}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SdkMessageId>9ebdbb1b-ea3e-db11-86a7-000a3a5473e8</SdkMessageId>
+  <PluginTypeName>Plugins.Warehouse.ValidateWarehouseTransactionPlugin, Plugins.Warehouse, Version=1.0.0.0, Culture=neutral, PublicKeyToken=60681930db5c3ccc</PluginTypeName>
+  <PluginTypeId>e2ec34c9-2b1e-44e2-aa5a-0959e2e22445</PluginTypeId>
+  <PrimaryEntity>lab_warehousetransaction</PrimaryEntity>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <Description>Plugins.Warehouse.ValidateWarehouseTransactionPlugin: Create of lab_warehousetransaction</Description>
+  <FilteringAttributes></FilteringAttributes>
+  <InvocationSource>1</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>10</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages />
+</SdkMessageProcessingStep>
